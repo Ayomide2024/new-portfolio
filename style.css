@@ -1,0 +1,20 @@
+.ye{
+    width: 270px;
+    border-radius: 100px;
+}
+.social-links a i:hover{
+color: transparent;
+}
+.social-links a i{
+    font-size: 30px;
+
+}
+.social-links #tw{
+    color: rgb(0, 184, 245);
+}
+.social-links #f{
+    color: blue;
+}
+.social-links #is{
+    color: red;
+}
